@@ -1,1 +1,1 @@
-# full-stack-15-12-2025
+full stack
